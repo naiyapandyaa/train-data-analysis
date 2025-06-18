@@ -1,2 +1,3 @@
 # train-data-analysis
-Train data analysis using a mock dataset, visualized and analyzed in Google Colab with Python.
+Completed all internship tasks at Cognifyz InfoTech.  
+All tasks are done in a single Colab notebook using Python, Pandas, PySpark, and Matplotlib.
