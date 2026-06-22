@@ -1,4 +1,4 @@
-# Railway Data Analysis | Cognifyz Technologies Internship
+# Railway(Train) Data Analysis | Cognifyz Technologies Internship
 
 This repository contains the tasks I completed during my Data Engineering internship at Cognifyz Technologies. The project focuses on exploring and analyzing railway data using Databricks and PySpark to extract meaningful insights from train schedules and station information.
 
