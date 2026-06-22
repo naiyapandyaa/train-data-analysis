@@ -1,19 +1,34 @@
-🚆 Train Delay Analysis Project | Cognifyz Technologies Internship 
+# Railway Data Analysis | Cognifyz Technologies Internship
 
-This repository contains all the tasks I completed during my Data Engineering internship at Cognifyz Technologies. The project involved analyzing real-world railway data to identify patterns and insights related to train delays.
+This repository contains the tasks I completed during my Data Engineering internship at Cognifyz Technologies. The project focuses on exploring and analyzing railway data using Databricks and PySpark to extract meaningful insights from train schedules and station information.
 
-📁 Tasks Included:
+## Tasks Included
 1. Data Exploration
 2. Data Cleaning & Preprocessing
 3. Data Transformation & Aggregation
 4. Data Visualization using Python (Matplotlib/Seaborn)
 5. Report Generation & Insights
 
-📊 Tools Used:
-- Python (Pandas, NumPy)
-- Matplotlib / Seaborn
-- Google Colab / Jupyter Notebook
+## Tools & Technologies Used
+- Azure Databricks
+- PySpark
+- Python
+- Matplotlib
+- Seaborn
+- Azure Data Lake Storage Gen2 (if used)
 
-📌 Dataset: Railway_info.csv (provided by Cognifyz)
+## Dataset
 
-This project helped me gain hands-on experience with real data, improving my skills in data analysis, preprocessing, and visualization. 🚀
+- Railway_info.csv (provided by Cognifyz Technologies)
+
+##  Analysis Performed
+- Dataset exploration
+- Null value and duplicate checking
+- Source station analysis
+- Destination station analysis
+- Train distribution by days
+- Route analysis
+- Data visualization using Matplotlib and Seaborn
+- Summary report and insights
+
+
