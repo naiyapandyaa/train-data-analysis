@@ -10,12 +10,11 @@ This repository contains the tasks I completed during my Data Engineering intern
 5. Report Generation & Insights
 
 ## Tools & Technologies Used
-- Azure Databricks
+- Databricks
 - PySpark
 - Python
 - Matplotlib
 - Seaborn
-- Azure Data Lake Storage Gen2 (if used)
 
 ## Dataset
 
